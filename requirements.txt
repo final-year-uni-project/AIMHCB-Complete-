@@ -4,6 +4,5 @@ groq
 python-dotenv
 vaderSentiment
 numpy
-fer
+fer [moviepy]
 opencv-python
-moviepy 
