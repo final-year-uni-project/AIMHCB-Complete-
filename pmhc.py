@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import numpy as np
 from fer import FER
-import moviepy 
+
 # Load environment variables
 load_dotenv()
 

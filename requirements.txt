@@ -1,8 +1,8 @@
-pandas
 streamlit
+pandas
 groq
 python-dotenv
 vaderSentiment
 numpy
 fer
-opencv-python
+opencv-python-headless
